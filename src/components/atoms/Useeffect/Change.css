@@ -1,0 +1,27 @@
+ body{
+    background-color: rgb(231, 224, 224);
+ }
+ .main{
+ 
+    margin-top: 18px;
+   
+ }
+ 
+ .img img{
+    border-radius: 22px  ;
+   
+  
+ }
+ button{
+    padding: 12px;
+    border-radius: 22px;
+     font-size: 12px;
+ 
+    border: 1px solid #0700d3;
+
+  
+
+ }
+ button:hover{
+    background-color: rgb(255, 0, 34);
+ }
